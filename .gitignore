@@ -1,0 +1,16 @@
+# Node/Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+build/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Secrets
+.env
+*.keystore
+GoogleService-Info.plist
+google-services.json
